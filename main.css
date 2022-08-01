@@ -1,0 +1,19 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+
+#accordian li {
+    list-style-type: none;
+}
+
+#accordian ul ul li a,
+#accordian h4 {
+    padding: 0 15px;
+} */
+
+/* #accordian a:not(:only-child):after {
+    content: "\f104";
+    font-family: fontawesome;
+} */
